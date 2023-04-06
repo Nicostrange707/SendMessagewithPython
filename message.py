@@ -8,11 +8,11 @@ i=0
 time.sleep(3)
 
 if limit<500:
-while i<int(limit):
-    pt.typewrite(message)
-    pt.press("enter")
+    while i<int(limit):
+     pt.typewrite(message)
+     pt.press("enter")
     
     i+=1
     
-elif:
+else:
     exit()
