@@ -6,4 +6,3 @@ The Script has a message limit of 500 messages.
 ```
 pip install pyautogui
 ```
-# SendMessagewithPython
